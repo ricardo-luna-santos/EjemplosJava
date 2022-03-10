@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+3
+1
+1
+1
+6
+1
+6
+numper
+9
+RANDOM(6)
+7
+0
+1
+5
+i = 1
+7
+0
+1
+5
+i = 2
+7
+0
+1
+5
+i = 3
+13
+4
+1
+42
+numper, ' persona(s) ganan menos de $5000'
+13
+13
+4
+1
+48
+numper, ' persona(s) ganan entre $10000 y $5000'
+13
+13
+4
+1
+34
+numper, ' persona(s) ganan $10000'
+13
+10
+1

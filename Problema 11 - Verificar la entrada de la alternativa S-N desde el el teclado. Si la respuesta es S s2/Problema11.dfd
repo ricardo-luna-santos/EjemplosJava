@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+4
+resp
+9
+1
+57
+resp != 'S' or resp != 's' or resp != 'N' or resp != 'n' 
+7
+0
+1
+24
+resp = 's' or resp = 'S'
+7
+0
+1
+24
+resp = 'N' or resp = 'n'
+4
+1
+27
+'La respuesta debe ser S/N'
+13
+4
+1
+20
+'Su respuesta es NO'
+13
+13
+4
+1
+20
+'Su respuesta es SI'
+13
+4
+1
+27
+'La respuesta debe ser S/N'
+5
+1
+4
+resp
+11
+1

@@ -1,0 +1,166 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'Escriba el numero del mes del cual quiere conocer cuantos dias tiene'
+5
+1
+7
+opcmenu
+7
+0
+1
+11
+opcmenu = 1
+7
+0
+1
+11
+opcmenu = 2
+7
+0
+1
+11
+opcmenu = 3
+7
+0
+1
+11
+opcmenu = 4
+7
+0
+1
+11
+opcmenu = 5
+7
+0
+1
+11
+opcmenu = 6
+7
+0
+1
+11
+opcmenu = 7
+7
+0
+1
+11
+opcmenu = 8
+7
+0
+1
+11
+opcmenu = 9
+7
+0
+1
+12
+opcmenu = 10
+7
+0
+1
+12
+opcmenu = 11
+7
+0
+1
+12
+opcmenu = 12
+13
+4
+1
+25
+'Diciembre tiene 31 dias'
+13
+13
+4
+1
+25
+'Noviembre tiene 30 dias'
+13
+13
+4
+1
+23
+'Octubre tiene 31 dias'
+13
+13
+4
+1
+26
+'Septiembre tiene 30 dias'
+13
+13
+4
+1
+22
+'Agosto tiene 31 dias'
+13
+13
+4
+1
+21
+'Julio tiene 31 dias'
+13
+13
+4
+1
+21
+'Junio tiene 30 dias'
+13
+13
+4
+1
+20
+'Mayo tiene 31 dias'
+13
+13
+4
+1
+21
+'Abril tiene 30 dias'
+13
+13
+4
+1
+21
+'Marzo tiene 31 dias'
+13
+13
+4
+1
+31
+'¿Cuantos dias tiene este año?'
+5
+1
+3
+bis
+7
+0
+1
+9
+bis = 365
+4
+1
+45
+'Febrero tiene 29 dias y el año es bisciesto'
+13
+4
+1
+48
+'Febrero tiene 28 dias y el año no es bisciesto'
+13
+13
+13
+4
+1
+21
+'Enero tiene 31 dias'
+13
+1

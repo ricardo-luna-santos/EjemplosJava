@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Cuantos numeros se van a sumar'
+5
+1
+3
+num
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+3
+num
+1
+1
+1
+6
+1
+4
+suma
+6
+suma+i
+10
+4
+1
+70
+'El resultado de la suma de los numeros del 0 al ', num, ' es: ', suma
+1

@@ -1,0 +1,114 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+resp
+4
+'si'
+9
+1
+11
+resp = 'si'
+4
+1
+25
+'Escribe el valor de a: '
+5
+1
+1
+a
+4
+1
+25
+'Escribe el valor de b: '
+5
+1
+1
+b
+4
+1
+25
+'Escribe el valor de c: '
+5
+1
+1
+c
+6
+2
+2
+x1
+30
+(-b+(SQRT((b^2)-4*a*c)))/(2*a)
+2
+x2
+30
+(-b-(SQRT((b^2)-4*a*c)))/(2*a)
+6
+1
+4
+numx
+9
+ROUND(x1)
+7
+0
+1
+9
+numx = x1
+6
+1
+4
+frac
+24
+(-b+(SQRT((b^2)-4*a*c)))
+4
+1
+39
+'El valor de x1 es: ', frac, '/', (2*a)
+13
+4
+1
+24
+'El valor de x1 es: ',x1
+13
+6
+1
+4
+numx
+9
+ROUND(x2)
+7
+0
+1
+9
+numx = x2
+6
+1
+4
+frac
+24
+(-b-(SQRT((b^2)-4*a*c)))
+4
+1
+39
+'El valor de x2 es: ', frac, '/', (2*a)
+13
+4
+1
+24
+'El valor de x2 es: ',x2
+13
+4
+1
+19
+'¿Desea continuar?'
+5
+1
+4
+resp
+11
+1

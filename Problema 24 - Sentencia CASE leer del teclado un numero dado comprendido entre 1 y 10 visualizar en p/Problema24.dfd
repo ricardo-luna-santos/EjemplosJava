@@ -1,0 +1,136 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Escriba un numero del 1 al 10'
+5
+1
+6
+opcnum
+7
+0
+1
+10
+opcnum = 1
+7
+0
+1
+10
+opcnum = 2
+7
+0
+1
+10
+opcnum = 3
+7
+0
+1
+10
+opcnum = 4
+7
+0
+1
+10
+opcnum = 5
+7
+0
+1
+10
+opcnum = 6
+7
+0
+1
+10
+opcnum = 7
+7
+0
+1
+10
+opcnum = 8
+7
+0
+1
+10
+opcnum = 9
+7
+0
+1
+11
+opcnum = 10
+7
+0
+1
+11
+opcnum > 10
+13
+4
+1
+31
+'Escribe un numero del 1 al 10'
+13
+13
+4
+1
+35
+'Los numeros pares son 2, 4, 6 y 8'
+13
+13
+4
+1
+37
+'Los numeros impares son 1, 3, 5 y 7'
+13
+13
+4
+1
+36
+'Los numeros pares son 2, 4, 6 y 10'
+13
+13
+4
+1
+37
+'Los numeros impares son 1, 3, 5 y 9'
+13
+13
+4
+1
+36
+'Los numeros pares son 2, 4, 8 y 10'
+13
+13
+4
+1
+37
+'Los numeros impares son 1, 3, 7 y 9'
+13
+13
+4
+1
+35
+'Los numero pares son 2, 6, 8 y 10'
+13
+13
+4
+1
+37
+'Los numeros impares son 1, 5, 7 y 9'
+13
+13
+4
+1
+36
+'Los numeros pares son 4, 6, 8 y 10'
+13
+13
+4
+1
+37
+'Los numeros impares son 3, 5, 7 y 9'
+13
+1

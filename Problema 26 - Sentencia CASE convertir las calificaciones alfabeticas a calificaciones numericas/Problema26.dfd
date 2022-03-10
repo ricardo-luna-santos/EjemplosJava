@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+88
+'Escribe la letra de la calificacion alfabetica para convertir en calificacion numerica'
+5
+1
+5
+letra
+7
+0
+1
+26
+letra ='A' or letra = 'a' 
+7
+0
+1
+26
+letra ='B' or letra = 'b' 
+7
+0
+1
+26
+letra ='C' or letra = 'c' 
+7
+0
+1
+26
+letra ='D' or letra = 'd' 
+7
+0
+1
+26
+letra ='F' or letra = 'f' 
+13
+4
+1
+22
+'La calificacion es 5'
+13
+13
+4
+1
+22
+'La calificacion es 7'
+13
+13
+4
+1
+22
+'La calificacion es 8'
+13
+13
+4
+1
+22
+'La calificacion es 9'
+13
+13
+4
+1
+23
+'La calificacion es 10'
+13
+1

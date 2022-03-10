@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+10
+decocadena
+2
+''
+4
+suma
+1
+0
+9
+1
+17
+decocadena != '='
+4
+1
+30
+'Escriba el numero de la suma'
+5
+1
+6
+cadena
+6
+1
+4
+suma
+11
+suma+cadena
+4
+1
+89
+'¿Quiere saber el resultado de la suma?', '(responda con S o N) entre comillas sencillas'
+5
+1
+4
+resp
+7
+0
+1
+10
+resp = 'S'
+13
+6
+1
+10
+decocadena
+3
+'='
+13
+11
+6
+1
+5
+resul
+4
+suma
+4
+1
+37
+'El resultado de la suma es: ', resul
+1

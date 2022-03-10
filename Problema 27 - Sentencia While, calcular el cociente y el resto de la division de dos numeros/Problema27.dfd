@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Escribe el numero dividendo'
+5
+1
+9
+dividendo
+4
+1
+27
+'Escribe el numero divisor'
+5
+1
+7
+divisor
+6
+2
+8
+cociente
+24
+TRUNC(dividendo/divisor)
+7
+residuo
+21
+dividendo MOD divisor
+4
+1
+41
+'El cociente de la divison es:', cociente
+4
+1
+41
+'El residuo de la division es: ', residuo
+1

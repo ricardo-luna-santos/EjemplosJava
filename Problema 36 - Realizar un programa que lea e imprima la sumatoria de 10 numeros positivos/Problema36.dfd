@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+suma
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+2
+10
+1
+1
+1
+4
+1
+26
+'Escriba la cantidad #', i
+5
+1
+3
+num
+7
+0
+1
+7
+num > 0
+4
+1
+29
+'El numero debe ser positivo'
+6
+1
+1
+i
+2
+10
+13
+6
+1
+4
+suma
+8
+suma+num
+13
+10
+7
+0
+1
+7
+num > 0
+13
+4
+1
+36
+'El resultado de la suma es: ', suma
+13
+1
